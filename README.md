@@ -5,9 +5,9 @@ A non-optimal choice of an emergency vehicle for a rescue request may lengthen t
 
 List of Attributes and its description
 •	Emergency vehicle selection : Identifying of selection instance of an emergency vehicle for an intervention                                                                                                                           
-•	Alert reason category (category):It has various categories from 1 to 9
-•	Intervention on public roads(boolean) : whether the intervention is on public road or not 
-•	 Floor (int):floor in which intervention happened 
+\n•	Alert reason category (category):It has various categories from 1 to 9
+\n•	Intervention on public roads(boolean) : whether the intervention is on public road or not 
+\n•	 Floor (int):floor in which intervention happened 
 •	 Location of the event(category) :it defines where the event has taken place ex: entrance    hall , boiler room , motorway etc
 •	Longitude intervention(float) : approximate longitude of the intervention address
 •	Latitude intervention (float) :approximate latitude of the intervention address
